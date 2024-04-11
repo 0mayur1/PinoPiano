@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "com.chat_prime.app-merged_res-36:/raw_assets_notes_cs.mp3.flat",
+        "source": "com.chat_prime.app-res-31:/raw/assets_notes_cs.mp3"
+    },
+    {
+        "merged": "com.chat_prime.app-merged_res-36:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.chat_prime.app-main-37:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.chat_prime.app-merged_res-36:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.chat_prime.app-main-37:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.chat_prime.app-merged_res-36:/raw_assets_notes_a.mp3.flat",
+        "source": "com.chat_prime.app-res-31:/raw/assets_notes_a.mp3"
+    },
+    {
+        "merged": "com.chat_prime.app-merged_res-36:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.chat_prime.app-main-37:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.chat_prime.app-merged_res-36:/raw_assets_notes_fs.mp3.flat",
+        "source": "com.chat_prime.app-res-31:/raw/assets_notes_fs.mp3"
+    },
+    {
+        "merged": "com.chat_prime.app-merged_res-36:/xml_network_security_config.xml.flat",
+        "source": "com.chat_prime.app-main-37:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.chat_prime.app-merged_res-36:/raw_assets_notes_e.mp3.flat",
+        "source": "com.chat_prime.app-res-31:/raw/assets_notes_e.mp3"
+    },
+    {
+        "merged": "com.chat_prime.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.chat_prime.app-main-37:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.chat_prime.app-merged_res-36:/raw_assets_notes_ds.mp3.flat",
+        "source": "com.chat_prime.app-res-31:/raw/assets_notes_ds.mp3"
+    },
+    {
+        "merged": "com.chat_prime.app-merged_res-36:/raw_assets_notes_g.mp3.flat",
+        "source": "com.chat_prime.app-res-31:/raw/assets_notes_g.mp3"
+    },
+    {
+        "merged": "com.chat_prime.app-merged_res-36:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.chat_prime.app-main-37:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.chat_prime.app-merged_res-36:/raw_assets_notes_gs.mp3.flat",
+        "source": "com.chat_prime.app-res-31:/raw/assets_notes_gs.mp3"
+    },
+    {
+        "merged": "com.chat_prime.app-merged_res-36:/raw_assets_notes_b.mp3.flat",
+        "source": "com.chat_prime.app-res-31:/raw/assets_notes_b.mp3"
+    },
+    {
+        "merged": "com.chat_prime.app-merged_res-36:/raw_assets_notes_as.mp3.flat",
+        "source": "com.chat_prime.app-res-31:/raw/assets_notes_as.mp3"
+    },
+    {
+        "merged": "com.chat_prime.app-merged_res-36:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.chat_prime.app-main-37:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.chat_prime.app-merged_res-36:/raw_assets_notes_d.mp3.flat",
+        "source": "com.chat_prime.app-res-31:/raw/assets_notes_d.mp3"
+    },
+    {
+        "merged": "com.chat_prime.app-merged_res-36:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.chat_prime.app-main-37:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.chat_prime.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.chat_prime.app-main-37:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.chat_prime.app-merged_res-36:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.chat_prime.app-main-37:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.chat_prime.app-merged_res-36:/raw_assets_notes_f.mp3.flat",
+        "source": "com.chat_prime.app-res-31:/raw/assets_notes_f.mp3"
+    },
+    {
+        "merged": "com.chat_prime.app-merged_res-36:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.chat_prime.app-main-37:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.chat_prime.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.chat_prime.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.chat_prime.app-merged_res-36:/raw_assets_notes_c.mp3.flat",
+        "source": "com.chat_prime.app-res-31:/raw/assets_notes_c.mp3"
+    }
+]
